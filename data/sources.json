@@ -1,0 +1,5 @@
+[
+ {"id":"OECD2024","title":"OECD AI Principles","version":"May 2024 update","url":"https://oecd.ai/en/ai-principles","type":"Intergovernmental recommendation","accessed":"2026-11-24","scope":"International; selected principles only"},
+ {"id":"UNESCO2021","title":"Recommendation on the Ethics of Artificial Intelligence","version":"23 November 2021","url":"https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence","type":"Recommendation","accessed":"2026-11-24","scope":"International; selected ethics provisions only"},
+ {"id":"GDC2024","title":"Global Digital Compact, Annex I to A/RES/79/1","version":"Adopted 2024 text, not negotiating drafts","url":"https://mandates.un.org/mandate/A/RES/79/1?organ=GA","type":"General Assembly political commitments","accessed":"2026-11-24","scope":"International; Annex I paragraphs 50-63"}
+]

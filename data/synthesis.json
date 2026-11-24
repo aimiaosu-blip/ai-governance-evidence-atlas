@@ -1,0 +1,5 @@
+[
+ {"id":"S1","title":"Shared vocabulary is a starting point","evidence":["O1","U1","G1"],"inference":"A shared transparency label can organize comparison, but evidence requirements and audiences still need explicit mapping.","question":"What information must each actor provide, to whom, and under what review process?","kind":"analyst_inference","review":"pending"},
+ {"id":"S2","title":"Compare accountability mechanisms","evidence":["O2","U2","U3"],"inference":"A practical crosswalk should connect a named responsible actor with an oversight mechanism and evidence artifact.","question":"Which actor owns review, correction and escalation in the intended deployment context?","kind":"analyst_inference","review":"pending"},
+ {"id":"S3","title":"Test interoperability on an example","evidence":["O3","G2","G3"],"inference":"A common documentation template could be piloted through consultation without asserting equivalence between frameworks.","question":"Which fields can be reused, and which require jurisdiction-specific interpretation?","kind":"analyst_inference","review":"pending"}
+]

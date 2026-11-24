@@ -1,0 +1,10 @@
+id,source,dimension,locator,claim,kind,review
+O1,OECD2024,transparency,Values-based principles: Transparency and explainability,Transparency and explainability are a named principle.,source_summary,pending
+O2,OECD2024,accountability,Values-based principles: Accountability,Accountability is a named principle for trustworthy AI.,source_summary,pending
+O3,OECD2024,interoperability,Recommendations for policymakers: Shaping an enabling interoperable governance and policy environment for AI,The policy recommendations explicitly include interoperable governance.,source_summary,pending
+U1,UNESCO2021,transparency,Paragraphs 37-41,Explanations should reflect context and impact; affected people should be able to seek reasons and review.,source_summary,pending
+U2,UNESCO2021,accountability,Paragraphs 42-43,"Oversight, impact assessment, audit and due diligence support accountability across the AI life cycle.",source_summary,pending
+U3,UNESCO2021,human_oversight,Paragraphs 35-36,Responsibility remains attributable to people or legal entities; delegation does not remove ultimate human accountability.,source_summary,pending
+G1,GDC2024,transparency,"Annex I, paragraph 55(d)","The Compact commits to promoting transparency, accountability and human oversight consistent with international law.",source_summary,pending
+G2,GDC2024,interoperability,"Annex I, paragraphs 55(b), 58",Shared practices and collaboration among standards organizations are routes toward compatible governance approaches.,source_summary,pending
+G3,GDC2024,participation,"Annex I, paragraphs 50, 56(b)",Inclusive participation and a UN Global Dialogue are commitments in the adopted text.,source_summary,pending

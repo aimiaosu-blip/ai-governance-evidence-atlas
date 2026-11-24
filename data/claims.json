@@ -1,0 +1,11 @@
+[
+ {"id":"O1","source":"OECD2024","dimension":"transparency","locator":"Values-based principles: Transparency and explainability","claim":"Transparency and explainability are a named principle.","kind":"source_summary","review":"pending"},
+ {"id":"O2","source":"OECD2024","dimension":"accountability","locator":"Values-based principles: Accountability","claim":"Accountability is a named principle for trustworthy AI.","kind":"source_summary","review":"pending"},
+ {"id":"O3","source":"OECD2024","dimension":"interoperability","locator":"Recommendations for policymakers: Shaping an enabling interoperable governance and policy environment for AI","claim":"The policy recommendations explicitly include interoperable governance.","kind":"source_summary","review":"pending"},
+ {"id":"U1","source":"UNESCO2021","dimension":"transparency","locator":"Paragraphs 37-41","claim":"Explanations should reflect context and impact; affected people should be able to seek reasons and review.","kind":"source_summary","review":"pending"},
+ {"id":"U2","source":"UNESCO2021","dimension":"accountability","locator":"Paragraphs 42-43","claim":"Oversight, impact assessment, audit and due diligence support accountability across the AI life cycle.","kind":"source_summary","review":"pending"},
+ {"id":"U3","source":"UNESCO2021","dimension":"human_oversight","locator":"Paragraphs 35-36","claim":"Responsibility remains attributable to people or legal entities; delegation does not remove ultimate human accountability.","kind":"source_summary","review":"pending"},
+ {"id":"G1","source":"GDC2024","dimension":"transparency","locator":"Annex I, paragraph 55(d)","claim":"The Compact commits to promoting transparency, accountability and human oversight consistent with international law.","kind":"source_summary","review":"pending"},
+ {"id":"G2","source":"GDC2024","dimension":"interoperability","locator":"Annex I, paragraphs 55(b), 58","claim":"Shared practices and collaboration among standards organizations are routes toward compatible governance approaches.","kind":"source_summary","review":"pending"},
+ {"id":"G3","source":"GDC2024","dimension":"participation","locator":"Annex I, paragraphs 50, 56(b)","claim":"Inclusive participation and a UN Global Dialogue are commitments in the adopted text.","kind":"source_summary","review":"pending"}
+]
