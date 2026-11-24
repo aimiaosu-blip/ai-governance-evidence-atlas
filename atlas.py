@@ -41,7 +41,7 @@ def build():
         lines.append(f"| {c['id']} | {c['dimension']} | {c['claim']} | [{s['id']}]({s['url']}) — {c['locator']} |")
     (out/'crosswalk.md').write_text('\n'.join(lines)+'\n')
     with (out/'crosswalk.csv').open('w',newline='') as f:
-        writer=csv.DictWriter(f,fieldnames=list(claims[0]));writer.writeheader();writer.writerows(claims)
+        writer=csv.DictWriter(f,fieldnames=list(claims[0]),lineterminator='\n');writer.writeheader();writer.writerows(claims)
     lines=['# Policy brief: a pilot for evidence interoperability','','Independent portfolio analysis. Scope: three selected international texts, not a global regulatory survey.','','## Decision proposed','','Pilot a common evidence record for one low-risk administrative AI use case. Keep source requirements and review decisions visible rather than assigning a single compliance score.']
     for s in synthesis:
         lines += ['', '## '+s['title'],'',s['inference'],'','Evidence: '+', '.join('['+x+'](crosswalk.md)' for x in s['evidence'])+'. Analyst inference; review pending.','','Consultation question: '+s['question']]
